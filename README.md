@@ -1,2 +1,2 @@
-My first readme edited
+My first readmet edited
 my second readme
